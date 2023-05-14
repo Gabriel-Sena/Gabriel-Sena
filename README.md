@@ -3,7 +3,6 @@
 - São Paulo - SP, Brazil
 - Ensino Superior: Tecnólogo em ADS | Fatec Ferraz de Vasconcelos
 - Ensino Técnico: Formado em Informática para Internet | Etec Parque Belém
-- [Instagram](https://www.instagram.com/sena_g01/)
 
 <div align="center">
   <a href="https://github.com/Gabriel-Sena">

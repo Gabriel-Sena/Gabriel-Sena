@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gbariel Sena 👋
 
-- São Paulo - SP, Brazil
-- Ensino Superior: Tecnólogo em ADS | Fatec Ferraz de Vasconcelos
-- Ensino Técnico: Formado em Informática para Internet | Etec Parque Belém
+- 📍São Paulo - SP, Brazil
+- 👨🏾‍💻Ensino Superior: Tecnólogo em ADS | Fatec Ferraz de Vasconcelos
+- 🎓Ensino Técnico: Formado em Informática para Internet | Etec Parque Belém
 
 <div align="center">
   <a href="https://github.com/Gabriel-Sena">
@@ -16,6 +16,7 @@
   <img align="center" alt="GBR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GBR-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="GBR-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="GBR-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
   ##

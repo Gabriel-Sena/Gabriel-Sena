@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gbariel Sena 👋
 
 - 📍São Paulo - SP, Brazil
-- 👨🏾‍💻Ensino Superior: Tecnólogo em ADS | Fatec Ferraz de Vasconcelos
+- 👨🏾‍💻Ensino Superior: Tecnólogo em ADS | Fatec Ferraz de Vasconcelos (Cursando)
 - 🎓Ensino Técnico: Formado em Informática para Internet | Etec Parque Belém
 
 <div style="display: inline_block"><br>

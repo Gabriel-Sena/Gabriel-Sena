@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gbariel Sena 👋
+### Olá! Eu sou o Gabriel Sena 👋
 
 - 📍São Paulo - SP, Brazil
 - 👨🏾‍💻Ensino Superior: Tecnólogo em ADS | Fatec Ferraz de Vasconcelos (Cursando)

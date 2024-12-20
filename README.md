@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Sena 👋
+### Hello! I'm Gabriel Sena 👋
 
 - 📍São Paulo - SP, Brazil
 - 👨🏾‍💻 College: Technologist in Systems Analysis and Development | Fatec Ferraz de Vasconcelos

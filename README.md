@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gabriel Sena 👋
 
 - 📍São Paulo - SP, Brazil
-- 👨🏾‍💻Ensino Superior: Tecnólogo em ADS | Fatec Ferraz de Vasconcelos (Cursando)
-- 🎓Ensino Técnico: Formado em Informática para Internet | Etec Parque Belém
+- 👨🏾‍💻 College: Technologist in Systems Analysis and Development | Fatec Ferraz de Vasconcelos
+- 🎓Technical Education: Internet Computing | Etec Parque Belém
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GBR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
